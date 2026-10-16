@@ -1,6 +1,6 @@
 # Amazon India Sales Analysis (Excel)
 
-![Dashboard preview](dashboard_preview.png)
+![Dashboard preview](dashboard_preview.jpg)
 
 Cleaned a messy 128,976-row e-commerce sales file with Power Query and built an Excel dashboard (KPIs, four charts, slicers) to answer: which categories and states bring in the most revenue, how revenue changes by month, and whether Amazon- or Merchant-fulfilled orders are cancelled more often.
 
